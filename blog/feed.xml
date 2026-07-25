@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Aneesh Pothuru — Blog</title>
+    <link>https://apothuru.com/blog/</link>
+    <description>This feed has moved to https://apothuru.com/blog/feed.xml</description>
+    <item>
+      <title>This feed has moved</title>
+      <link>https://apothuru.com/blog/feed.xml</link>
+      <guid isPermaLink="false">https://apothuru.com/blog/feed.xml#moved</guid>
+      <description>This feed now lives at https://apothuru.com/blog/feed.xml — please update your subscription.</description>
+    </item>
+  </channel>
+</rss>
